@@ -1,5 +1,6 @@
-numpy>=1.25.0
-scikit-learn==1.2.2
-pandas
 streamlit
+pandas
+numpy>=1.25.0
+scikit-learn==1.2.2   # Use the version you trained pipe.pkl with
+joblib
 setuptools<81
